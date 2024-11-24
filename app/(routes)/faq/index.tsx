@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const insex = () => {
+const index = () => {
   return (
     <View>
-      <Text>tab</Text>
+      <Text>faq</Text>
     </View>
   )
 }
 
-export default insex
+export default index
